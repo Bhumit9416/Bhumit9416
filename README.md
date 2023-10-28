@@ -6,9 +6,9 @@
 
 🤔 I’m looking for help with: I'm looking for help with gaining more practical experience in AI and ML, as well as guidance in starting or joining a startup.
 
-💬 Ask me about You can ask me about AI, ML, web development, or even sports like table tennis and cricket, which I'm passionate about.
+💬 Ask me about You can ask me about AI&ML, web development, or even sports like table tennis and cricket, which I'm passionate about.
 
-📫 How to reach me: You can reach me via email at bhumit9416@gmal.com.
+📫 How to reach me: You can reach me via email at bhumit9416@gmail.com.
 
 😄 Pronouns: He/His.
 
