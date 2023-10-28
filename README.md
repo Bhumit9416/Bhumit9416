@@ -8,9 +8,9 @@
 
 💬 Ask me about You can ask me about AI, ML, web development, or even sports like table tennis and cricket, which I'm passionate about.
 
-📫 How to reach me: You can reach me via email at bhmt9416@gmal.com.
+📫 How to reach me: You can reach me via email at bhumit9416@gmal.com.
 
-😄 Pronouns: He/Hs.
+😄 Pronouns: He/His.
 
 ⚡ Fun fact: A fun fact about me is that I find inspiration and creativity in sports, and I believe that teamwork and discipline from sports can be applied to my technical and startup endeavours.
 
