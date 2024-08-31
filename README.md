@@ -12,6 +12,4 @@
 
 😄 Pronouns: He/His.
 
-⚡ Fun fact: A fun fact about me is that I find inspiration and creativity in sports, and I believe that teamwork and discipline from sports can be applied to my technical and startup endeavours.
-
 [![An image of @bhumit9416's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhumit9416)](https://holopin.io/@bhumit9416)
