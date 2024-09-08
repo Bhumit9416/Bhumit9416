@@ -30,20 +30,20 @@
 <h3 align="left">Support:</h3>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bhumit22?theme=dark&font=NTR)
-
+<hr>
 <p><a href="https://www.buymeacoffee.com/bhumit9416"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhumit9416" /></a></p><br><br>
-
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumit9416&show_icons=true&locale=en&layout=compact" alt="bhumit9416" /></p>
-
+<hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumit9416&show_icons=true&locale=en" alt="bhumit9416" /></p>
-
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumit9416&" alt="bhumit9416" /></p>
 
 
-
+<hr>
 
 
 [![An image of @bhumit9416's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhumit9416)](https://holopin.io/@bhumit9416)
