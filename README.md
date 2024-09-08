@@ -29,7 +29,7 @@
 
 <h3 align="left">Support:</h3>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/bhumit22)
+![LeetCode Stats](https://leetcard.jacoblin.cool/bhumit22?theme=dark&font=NTR)
 
 <p><a href="https://www.buymeacoffee.com/bhumit9416"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhumit9416" /></a></p><br><br>
 
