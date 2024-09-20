@@ -33,7 +33,7 @@
 <hr>
 <p><a href="https://www.buymeacoffee.com/bhumit9416"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhumit9416" /></a></p><br><br>
 <hr>
-![Leetcode Stats](https://leetcard.jacoblin.cool/bhumit22)
+![LeetCode Stats](https://leetcard.jacoblin.cool/bhumit22?theme=dark&font=Buda)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumit9416&show_icons=true&locale=en&layout=compact" alt="bhumit9416" /></p>
 
