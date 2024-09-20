@@ -40,7 +40,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumit9416&show_icons=true&locale=en" alt="bhumit9416" />
 <hr>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/bhumit22)](https://leetcode.com/bhumit22)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/bhumit22?theme=dark&font=Noto%20Sans%20Sundanese&ext=heatmap)
 <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumit9416&" alt="bhumit9416" /></p>
