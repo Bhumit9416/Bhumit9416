@@ -33,11 +33,14 @@
 <hr>
 <p><a href="https://www.buymeacoffee.com/bhumit9416"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhumit9416" /></a></p><br><br>
 <hr>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?bhumit22=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumit9416&show_icons=true&locale=en&layout=compact" alt="bhumit9416" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumit9416&show_icons=true&locale=en" alt="bhumit9416" />
+<hr>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/bhumit22)](https://leetcode.com/bhumit22)
 <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumit9416&" alt="bhumit9416" /></p>
