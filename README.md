@@ -44,7 +44,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bhumit22?theme=dark&font=Noto%20Sans%20Sundanese&ext=heatmap)
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumit9416&" alt="bhumit9416" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumit9416&" alt="bhumit9416" />
+</p>
 
 
 <hr>
