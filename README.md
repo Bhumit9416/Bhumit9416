@@ -41,7 +41,7 @@
 <hr>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/bhumit75?theme=dark&font=Noto%20Sans%20Sundanese&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/bhumit71?theme=dark&font=Noto%20Sans%20Sundanese&ext=heatmap)
 <hr>
 
 <p>
